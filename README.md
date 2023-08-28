@@ -1,0 +1,1 @@
+# LabTec_Inventario
